@@ -1,2 +1,3 @@
  addition 
 substraction
+multiply
